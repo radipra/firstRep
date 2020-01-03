@@ -1,3 +1,5 @@
-window.onload = function() {
-  alert('Hello world!!');
-};
+$(function() {
+
+	$("img").fadeIn(2000);
+
+});
